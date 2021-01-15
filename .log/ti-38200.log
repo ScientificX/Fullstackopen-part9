@@ -1,0 +1,11 @@
+[8:16:5.814] Global cache location '/home/fascher/.cache/typescript/3.7', safe file path '/home/fascher/Desktop/Fullstackopen/Patientor-Frontend/node_modules/typescript/lib/typingSafeList.json', types map path /home/fascher/Desktop/Fullstackopen/Patientor-Frontend/node_modules/typescript/lib/typesMap.json
+[8:16:5.816] Processing cache location '/home/fascher/.cache/typescript/3.7'
+[8:16:5.816] Trying to find '/home/fascher/.cache/typescript/3.7/package.json'...
+[8:16:5.849] Finished processing cache location '/home/fascher/.cache/typescript/3.7'
+[8:16:5.850] Process id: 38207
+[8:16:5.850] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[8:16:5.850] validateDefaultNpmLocation: false
+[8:16:5.851] Npm config file: /home/fascher/.cache/typescript/3.7/package.json
+[8:16:5.851] Npm config file: '/home/fascher/.cache/typescript/3.7/package.json' is missing, creating new one...
+[8:16:5.854] Updating types-registry npm package...
+[8:16:5.854] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest

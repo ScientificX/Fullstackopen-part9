@@ -1,0 +1,20 @@
+[22:38:30.651] Global cache location '/home/fascher/.cache/typescript/4.1', safe file path '/home/fascher/Desktop/Fullstackopen/CourseInformation/courseinfo/node_modules/typescript/lib/typingSafeList.json', types map path /home/fascher/Desktop/Fullstackopen/CourseInformation/courseinfo/node_modules/typescript/lib/typesMap.json
+[22:38:30.685] Processing cache location '/home/fascher/.cache/typescript/4.1'
+[22:38:30.685] Trying to find '/home/fascher/.cache/typescript/4.1/package.json'...
+[22:38:30.833] Loaded content of '/home/fascher/.cache/typescript/4.1/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.522"}}
+[22:38:30.834] Loaded content of '/home/fascher/.cache/typescript/4.1/package-lock.json'
+[22:38:30.834] Finished processing cache location '/home/fascher/.cache/typescript/4.1'
+[22:38:30.836] Process id: 99162
+[22:38:30.836] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[22:38:30.836] validateDefaultNpmLocation: false
+[22:38:30.837] Npm config file: /home/fascher/.cache/typescript/4.1/package.json
+[22:38:30.838] Updating types-registry npm package...
+[22:38:30.838] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[22:38:54.962]     Succeeded. stdout:
+    + types-registry@0.1.522
+    updated 1 package and audited 1 package in 5.539s
+found 0 vulnerabilities
+
+
+[22:38:54.963] Updated types-registry npm package
+[22:38:55.041] Parent process has exited, shutting down...

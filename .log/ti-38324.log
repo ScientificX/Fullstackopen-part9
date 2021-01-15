@@ -1,0 +1,12 @@
+[8:18:55.995] Global cache location '/home/fascher/.cache/typescript/4.0', safe file path '/home/fascher/Desktop/Fullstackopen/ilari/node_modules/typescript/lib/typingSafeList.json', types map path /home/fascher/Desktop/Fullstackopen/ilari/node_modules/typescript/lib/typesMap.json
+[8:18:55.997] Processing cache location '/home/fascher/.cache/typescript/4.0'
+[8:18:55.998] Trying to find '/home/fascher/.cache/typescript/4.0/package.json'...
+[8:18:56.90] Loaded content of '/home/fascher/.cache/typescript/4.0/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.522"}}
+[8:18:56.90] Loaded content of '/home/fascher/.cache/typescript/4.0/package-lock.json'
+[8:18:56.91] Finished processing cache location '/home/fascher/.cache/typescript/4.0'
+[8:18:56.93] Process id: 38331
+[8:18:56.94] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[8:18:56.94] validateDefaultNpmLocation: false
+[8:18:56.95] Npm config file: /home/fascher/.cache/typescript/4.0/package.json
+[8:18:56.96] Updating types-registry npm package...
+[8:18:56.97] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest

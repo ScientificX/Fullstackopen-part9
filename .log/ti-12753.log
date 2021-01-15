@@ -1,0 +1,18 @@
+[23:33:58.977] Global cache location '/home/fascher/.cache/typescript/4.0', safe file path '/home/fascher/Desktop/Fullstackopen/ilari/node_modules/typescript/lib/typingSafeList.json', types map path /home/fascher/Desktop/Fullstackopen/ilari/node_modules/typescript/lib/typesMap.json
+[23:33:58.979] Processing cache location '/home/fascher/.cache/typescript/4.0'
+[23:33:58.980] Trying to find '/home/fascher/.cache/typescript/4.0/package.json'...
+[23:33:59.14] Finished processing cache location '/home/fascher/.cache/typescript/4.0'
+[23:33:59.15] Process id: 12764
+[23:33:59.15] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[23:33:59.15] validateDefaultNpmLocation: false
+[23:33:59.16] Npm config file: /home/fascher/.cache/typescript/4.0/package.json
+[23:33:59.16] Npm config file: '/home/fascher/.cache/typescript/4.0/package.json' is missing, creating new one...
+[23:33:59.45] Updating types-registry npm package...
+[23:33:59.46] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[23:34:2.638]     Succeeded. stdout:
+    + types-registry@0.1.522
+    added 1 package from 1 contributor and audited 1 package in 1.926s
+found 0 vulnerabilities
+
+
+[23:34:2.638] Updated types-registry npm package
